@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the theme applied to the application or activity -->
+    <style name="CustomActionBarTheme"
+        parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MyActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar</item>
+    </style>
+
+    <style name="FacebookLoginButton">
+        <item name="android:textSize">@dimen/smallTxtSize</item>
+        <item name="android:layout_marginTop">@dimen/btn_social_login_mvertical</item>
+        <item name="android:layout_marginBottom">@dimen/btn_social_login_mvertical</item>
+        <item name="android:layout_marginRight">@dimen/btn_social_login_mhorizont</item>
+        <item name="android:layout_marginLeft">@dimen/btn_social_login_mhorizont</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="input_login_size">
+        <item name="android:textSize">@dimen/inputSmallTextSize</item>
+    </style>
+    <style name="text_registration_size">
+        <item name="android:textSize">@dimen/inputSmallTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_registration</item>
+    </style>
+</resources>

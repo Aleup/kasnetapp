@@ -1,0 +1,27 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="btn_social_login_mhorizont">20dp</dimen>
+    <dimen name="btn_social_login_mvertical">5dp</dimen>
+
+    <dimen name="btn_form_login_mhorizont">20dp</dimen>
+    <dimen name="btn_form_login_mvertical">10dp</dimen>
+    <dimen name="btn_form_login_height">30dp</dimen>
+    <dimen name="btn_form_login_textSize">14dp</dimen>
+
+    <dimen name="editext_login_mvertical">1dp</dimen>
+    <dimen name="editext_login_mhorizont">20dp</dimen>
+
+    <dimen name="textview_regis_mvertical_t">2dp</dimen>
+    <dimen name="textview_regis_mvertical_b">5dp</dimen>
+
+
+    <dimen name="img_logo_login_mvertical">5dp</dimen>
+
+    <dimen name="smallTxtSize">12dp</dimen>
+    <dimen name="inputSmallTextSize">12dp</dimen>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Agente Kasnet</string>
+	<string name="legal">Aviso legal</string>
+	<string name="no_maps">Google maps no se encuentra disponible</string>
+	<string name="map_page_title">Mapa #</string>
+	<string name="un">UN</string>
+	<string name="united_nations">United Nations</string>
+	<string name="lincoln_center">Lincoln Center</string>
+	<string name="lincoln_center_snippet">Home of Jazz at Lincoln Center</string>
+	<string name="carnegie_hall">Carnegie Hall</string>
+	<string name="practice_x3">Where you go with practice, practice, practice</string>
+	<string name="downtown_club">The Downtown Club</string>
+	<string name="heisman_trophy">Original home of the Heisman Trophy</string>
+	<string name="title_facebook_login">Autenticarse</string>
+
+	<string name="btn_fb_login_text">Iniciar Sesión con Facebook</string>
+
+	<string name="facebook_app_id">757593557701223</string>
+	<string name="user_hint">Ingrese su usuario</string>
+	<string name="pass_hint">Ingrese su contraseña</string>
+	<string name="btn_login">Ingresar</string>
+	<string name="action_settings">Opciones</string>
+	<string name="registro_input_1">¿No tienes una cuenta?</string>
+	<string name="registro_input_2">Registrate aquí</string>
+
+	<string name="GloboKas">Globokas</string>
+	<string name="GloboKas_desc">Caminos del Inca 777, Surco - Perú</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

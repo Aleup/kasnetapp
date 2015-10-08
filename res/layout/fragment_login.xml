@@ -1,0 +1,186 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bitperfect.kasnet.LoginFragment"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="@dimen/img_logo_login_mvertical"
+        android:layout_marginBottom="@dimen/img_logo_login_mvertical">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/login_title_image" />
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/editext_login_mhorizont"
+        android:layout_marginRight="@dimen/editext_login_mhorizont"
+        android:layout_marginTop="@dimen/editext_login_mvertical"
+        android:layout_marginBottom="@dimen/editext_login_mvertical">
+        <EditText
+            android:id="@+id/txtUser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/user_hint"
+            android:gravity="center_horizontal"
+            android:ellipsize="start"
+            android:singleLine="true"
+            android:autoText="true"
+            style="@style/input_login_size"
+            android:theme="@style/input_login_size">
+            <requestFocus />
+        </EditText>
+        <Button
+            android:id="@+id/UserIcon"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_gravity="left|center_vertical"
+            android:background="@drawable/icon_person_36"
+            android:clickable="false"
+            android:layout_marginLeft="10dp" />
+    </FrameLayout>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/editext_login_mvertical"
+            android:layout_marginBottom="@dimen/editext_login_mvertical"
+            android:layout_marginRight="@dimen/editext_login_mhorizont"
+            android:layout_marginLeft="@dimen/editext_login_mhorizont">
+            <EditText
+                android:id="@+id/txtPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/pass_hint"
+                android:gravity="center_horizontal"
+                android:ellipsize="start"
+                android:singleLine="true"
+                style="@style/input_login_size"
+                android:theme="@style/input_login_size">
+                <requestFocus />
+            </EditText>
+            <Button
+                android:id="@+id/PassIcon"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_gravity="left|center_vertical"
+                android:clickable="false"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/icon_pass" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/btn_form_login_mvertical"
+            android:layout_marginBottom="@dimen/btn_form_login_mvertical">
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/btn_form_login_height"
+                android:text="@string/btn_login"
+                android:id="@+id/btn_login"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#ffffff"
+                android:background="#004794"
+                android:layout_marginRight="@dimen/btn_social_login_mhorizont"
+                android:layout_marginLeft="@dimen/btn_social_login_mhorizont"
+                android:textSize="@dimen/btn_form_login_textSize" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="@dimen/textview_regis_mvertical_t"
+            android:layout_marginBottom="@dimen/textview_regis_mvertical_b">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/registro_input_1"
+                android:id="@+id/txt_reg1"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/btn_form_login_textSize"
+                android:gravity="center_vertical"
+                android:layout_marginRight="8dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/registro_input_2"
+                android:id="@+id/txt_reg2"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/btn_form_login_textSize"
+                android:gravity="center_vertical"
+                android:theme="@style/text_registration_size"
+                style="@style/text_registration_size" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="50dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/img_fb"
+                android:src="@drawable/btn_fb_login"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/btn_social_login_mhorizont"
+                android:layout_marginRight="@dimen/btn_social_login_mhorizont"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+            <!--
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/img_g"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/btn_social_login_mhorizont"
+                android:layout_marginLeft="@dimen/btn_social_login_mhorizont"/>
+            -->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:id="@+id/img_gp"
+                android:src="@drawable/btn_g_login"
+                android:layout_marginRight="@dimen/btn_social_login_mhorizont"
+                android:layout_marginLeft="@dimen/btn_social_login_mhorizont" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"></FrameLayout>
+
+
+</LinearLayout>

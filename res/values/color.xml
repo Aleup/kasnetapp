@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar">#004794</color>
+    <color name="button_login">#004794</color>
+    <color name="text_registration">#004794</color>
+</resources>

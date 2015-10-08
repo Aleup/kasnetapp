@@ -1,0 +1,1114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Agentes KasNet a Nivel Nacional </name>
+		<description><![CDATA[La 1° Red de Agentes Multibanco del País ]]></description>
+		<Folder>
+			<name>Lima</name>
+			<Placemark>
+				<name>LA RED</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. BRONSINO 133<br><strong>Referencia:</strong> ALT. DE LA CDRA. 19 Y 20 DE AV. SAN LUIS<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. BRONSINO 133</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT. DE LA CDRA. 19 Y 20 DE AV. SAN LUIS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08849</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99599</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99599,-12.088490000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ABARROTES DON WILLY</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV CAMINOS DEL INCA 3209<br><strong>Referencia:</strong> CRUCE CON AV. TINOCO<br><strong>Localidad:</strong> SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV CAMINOS DEL INCA 3209</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>CRUCE CON AV. TINOCO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.14358</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98515</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98515,-12.14358,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>G &amp; M BOTICAS</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV AVIACIÓN 4036<br><strong>Referencia:</strong> SURQUILLO<br><strong>Localidad:</strong> SURQUILLO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV AVIACIÓN 4036</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150141</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>FA</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.11705</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99912</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99912,-12.11705,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COPY RAPID J &amp; M</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV AVIACIÓN 2330<br><strong>Referencia:</strong>  A 1 CUADRA DE JAVIER PRADO<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV AVIACIÓN 2330</value>
+					</Data>
+					<Data name='Referencia'>
+						<value> A 1 CUADRA DE JAVIER PRADO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08553</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00419</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00419,-12.08553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MINIMARKET PAULITA</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. CIUDAD REAL 245<br><strong>Referencia:</strong> ALTURA CDRA. 5 AV. PEDRO VENTURO<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. CIUDAD REAL 245</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALTURA CDRA. 5 AV. PEDRO VENTURO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.12287</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99306</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99306,-12.12287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MULTISERVICIOS NISSI</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV ROSA TORO 734<br><strong>Referencia:</strong> ALTURA AV. CANADA Y ROSA TORO<br><strong>Localidad:</strong> SAN LUIS]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV ROSA TORO 734</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALTURA AV. CANADA Y ROSA TORO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150134</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08107</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99393</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99393,-12.08107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LIBRERÍA LIZ</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV SAN LUIS N°1849<br><strong>Referencia:</strong> ENTRE AV. JAVIER PRADO Y AV. SAN LUIS<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV SAN LUIS N°1849</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ENTRE AV. JAVIER PRADO Y AV. SAN LUIS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08547</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99671</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99671,-12.08547,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>R.S CBASTIAN</name>
+				<description><![CDATA[<strong>Dirección:</strong> CAL AYABACA 204<br><strong>Referencia:</strong> URB PROLONGACION BENAVIDES<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>CAL AYABACA 204</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>URB PROLONGACION BENAVIDES</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.14532</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98768</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98768,-12.14532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FERRETERIA MITSUO</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV DEL AIRE 521 INT 5<br><strong>Referencia:</strong> ALTURA CUADRA 18 AV CANADA<br><strong>Localidad:</strong> LA VICTORIA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV DEL AIRE 521 INT 5</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALTURA CUADRA 18 AV CANADA</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>LA VICTORIA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>LA VICTORIA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150115</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08418</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00817</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00817,-12.08418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BAZAR AYS</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV EL SOL 410<br><strong>Referencia:</strong> A UNA CUADRA DE TOMAS MARSANO<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV EL SOL 410</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>A UNA CUADRA DE TOMAS MARSANO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.14581</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98887</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98887,-12.14581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SERVICIOS GENERALES JAIR</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. RODOLFO BELTRAN 156<br><strong>Referencia:</strong> ALTURA CUADRA 12 DE CANADA<br><strong>Localidad:</strong> LA VICTORIA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. RODOLFO BELTRAN 156</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALTURA CUADRA 12 DE CANADA</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>LA VICTORIA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>LA VICTORIA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150115</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08793</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.01210</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.0121,-12.08793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARKET MAREMA</name>
+				<description><![CDATA[<strong>Dirección:</strong> CAL FRAY ANGELITO 307<br><strong>Referencia:</strong> AV SAN LUIS CUADRA 22 CRUCE EN CALLE FRAY ANGELITO<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>CAL FRAY ANGELITO 307</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>AV SAN LUIS CUADRA 22 CRUCE EN CALLE FRAY ANGELITO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.09557</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99510</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.9951,-12.09557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ALDAPHNE SALOON</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV  DEL PARQUE SUR 191<br><strong>Referencia:</strong> FRENT AL INSTITUTO GEOFISICO<br><strong>Localidad:</strong> SAN ISIDRO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV  DEL PARQUE SUR 191</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>FRENT AL INSTITUTO GEOFISICO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN ISIDRO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN ISIDRO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150131</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.10238</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.01580</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.0158,-12.10238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LIBRERIA BAZAR BELLAS ARTES</name>
+				<description><![CDATA[<strong>Dirección:</strong> ALAMEDA DE LA ARQUITECTURA 163<br><strong>Referencia:</strong> ALT CUADRA 35 DE AV AVIACION<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>ALAMEDA DE LA ARQUITECTURA 163</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT CUADRA 35 DE AV AVIACION</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.10928</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00328</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00328,-12.10928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FULL FOTO ESTUDIO FOTOGRAFICO</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV AVIACION 3057<br><strong>Referencia:</strong> ALT CUADRA 30 AVIACION<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV AVIACION 3057</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT CUADRA 30 AVIACION</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.10026</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00164</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00164,-12.10026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VENTA DE RESPUESTOS ACCESORIOS Y RECARGAS VIRTUALES</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV TOMAS MARSANO 4805 URB PROLG BENAVIDES<br><strong>Referencia:</strong> AV TOMAS MARSANO CON AV EL SOL<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV TOMAS MARSANO 4805 URB PROLG BENAVIDES</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>AV TOMAS MARSANO CON AV EL SOL</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.14571</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98811</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98811,-12.14571,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MINIMARKET EL BUEN DELEITE</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV CRISTOBAL DE PERALTA 914 INT 4<br><strong>Referencia:</strong> PARADERO EL PENTAGONITO PANAMERICANA SUR<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV CRISTOBAL DE PERALTA 914 INT 4</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>PARADERO EL PENTAGONITO PANAMERICANA SUR</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.10255</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.97892</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.97892,-12.10255,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>INVERSIONES KHAN</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV AVIACION NRO. 5092 TDA. 134 CC SANTA ROSA<br><strong>Referencia:</strong> FRENTE A POLVOS ROSADOS<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV AVIACION NRO. 5092 TDA. 134 CC SANTA ROSA</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>FRENTE A POLVOS ROSADOS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.12680</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00043</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00043,-12.126800000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SERVICIOS HINOSTROZA</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. ARQUEOLOGIA NRO. 233<br><strong>Referencia:</strong> CRUCE AV CANADA CON JR ARQUEOLOGIA<br><strong>Localidad:</strong> SAN LUIS]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. ARQUEOLOGIA NRO. 233</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>CRUCE AV CANADA CON JR ARQUEOLOGIA</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150134</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08308</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00099</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00099,-12.08308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CYBER CAFE LA UNIVERSIDAD</name>
+				<description><![CDATA[<strong>Dirección:</strong> MZA. B LOTE. 18 A.H. VIRGEN DEL CARMEN<br><strong>Referencia:</strong> TREBOL JAVIER PRADO<br><strong>Localidad:</strong> ATE]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>MZA. B LOTE. 18 A.H. VIRGEN DEL CARMEN</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>TREBOL JAVIER PRADO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>ATE</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>ATE</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150103</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08295</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98053</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98053,-12.08295,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TELECOMUNICACIONES FERMIN Q EIRL</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV SAN LUIS 2099<br><strong>Referencia:</strong> ALT CUADRA 20 DE AV SAN LUIS<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV SAN LUIS 2099</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT CUADRA 20 DE AV SAN LUIS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.09119</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99592</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99592,-12.09119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BODEGA MINIMARKET CLAUDIA</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. LAS BELLAS ARTES N°200<br><strong>Referencia:</strong> ALTURA CDRA 19  DE LA  AV SAN LUIS<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. LAS BELLAS ARTES N°200</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALTURA CDRA 19  DE LA  AV SAN LUIS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.08619</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99919</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99919,-12.08619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DETODO.COM</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. LOMA UMBROSA 496 TDA B<br><strong>Referencia:</strong> FRENTE A LA NUEVA MUNICIPALIDAD DE SURCO<br><strong>Localidad:</strong> SANTIAGO DE SURCO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. LOMA UMBROSA 496 TDA B</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>FRENTE A LA NUEVA MUNICIPALIDAD DE SURCO</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SANTIAGO DE SURCO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150140</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.13981</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.98772</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.98772,-12.13981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MINIMARKET FLORES</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV SAN BORJA SUR N° 670<br><strong>Referencia:</strong> AV. SAN BORJA SUR CUADRA 6<br><strong>Localidad:</strong> SAN BORJA]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV SAN BORJA SUR N° 670</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>AV. SAN BORJA SUR CUADRA 6</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN BORJA</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150130</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.10115</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00004</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00004,-12.10115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BOTICA FARMA SERVA</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV. ANGAMOS ESTE NRO. 2298 INT. PIS1 AHH REDUCTO 3<br><strong>Referencia:</strong> ALT. CUADRA 22 DE ANGAMOS<br><strong>Localidad:</strong> SURQUILLO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV. ANGAMOS ESTE NRO. 2298 INT. PIS1 AHH REDUCTO 3</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT. CUADRA 22 DE ANGAMOS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150141</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>FA</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.11192</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.00595</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.00595,-12.11192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BODEGA LIBRERIA</name>
+				<description><![CDATA[<strong>Dirección:</strong> JR. DOMINGO MARTINEZ LUJAN NRO. 853<br><strong>Referencia:</strong> ALT. DE LA CUADRA 15 AV. ANGAMOS<br><strong>Localidad:</strong> SURQUILLO]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>JR. DOMINGO MARTINEZ LUJAN NRO. 853</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>ALT. DE LA CUADRA 15 AV. ANGAMOS</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SURQUILLO</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150141</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>BO</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.11220</value>
+					</Data>
+					<Data name='Y'>
+						<value>-77.01644</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.01644,-12.1122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>INDUSTRY GALMAR TOOLS EIRL</name>
+				<description><![CDATA[<strong>Dirección:</strong> AV. AGUSTIN DE LA ROSA TORO NRO. 893<br><strong>Referencia:</strong> A UNA CUADRA DE AV. AIRE<br><strong>Localidad:</strong> SAN LUIS]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Dirección'>
+						<value>AV. AGUSTIN DE LA ROSA TORO NRO. 893</value>
+					</Data>
+					<Data name='Referencia'>
+						<value>A UNA CUADRA DE AV. AIRE</value>
+					</Data>
+					<Data name='Localidad'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Departamento'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Provincia'>
+						<value>LIMA</value>
+					</Data>
+					<Data name='Distrito'>
+						<value>SAN LUIS</value>
+					</Data>
+					<Data name='Ubigeo'>
+						<value>150134</value>
+					</Data>
+					<Data name='Categoria'>
+						<value>OT</value>
+					</Data>
+					<Data name='X'>
+						<value>-12.07942</value>
+					</Data>
+					<Data name='Y'>
+						<value>-76.99387</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.99387,-12.07942,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-3F5BA9-normal'>
+			<IconStyle>
+				<Icon>
+					<href>http://aliveinteractive.org/sodexo-mailing/gmp.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-3F5BA9-highlight'>
+			<IconStyle>
+				<Icon>
+					<href>http://aliveinteractive.org/sodexo-mailing/gmp.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id='icon-503-3F5BA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-3F5BA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-3F5BA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
